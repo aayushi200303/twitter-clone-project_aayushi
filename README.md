@@ -34,6 +34,6 @@ PORT_CLIENT = xxxx
 If you don't have mongoDB installed on your local machine then create a MongoDB Atlas cluster and add the link to your .env file.
 
 ```
-MONGODB_URI = ??? if you don't have mongodb installed.
+MONGODB_URI = ??? 
 ```
 
