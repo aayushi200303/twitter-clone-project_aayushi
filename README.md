@@ -1,4 +1,4 @@
-# Twitter Clone 💡
+## Twitter Clone 
 
 
 ![](https://user-images.githubusercontent.com/71825314/145272820-d6af46e2-8bb2-4e7e-997e-3c381d87288a.gif)
@@ -29,7 +29,7 @@ PORT_SERVER = xxxx
 PORT_CLIENT = xxxx
 ```
 
-### Database 📥
+### Database 
 
 If you don't have mongoDB installed on your local machine then create a MongoDB Atlas cluster and add the link to your .env file.
 
